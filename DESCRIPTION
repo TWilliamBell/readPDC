@@ -1,0 +1,14 @@
+Package: readPDC
+Title: Read Pandas Complex Data Type into R
+Version: 1.0.0
+Authors@R: 
+    person(given = "TW",
+           family = "Bell",
+           role = c("aut", "cre"),
+           email = "t4bell@uwaterloo.ca")
+Description: Developed in the aftermath of realizing that I had written complex numbers to a file that neither Python (inc. Pandas!) nor R could read by default.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Name: readPDC
+RoxygenNote: 6.1.1
